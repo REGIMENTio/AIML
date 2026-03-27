@@ -1,0 +1,9 @@
+df.isnull().sum() = we use this for getting all empty datasets
+df.describe()
+df.shape()
+len(df)
+df.head(5)
+df.tail(5)
+pip install matplotlib
+pip install numpy
+pip install seaborn
